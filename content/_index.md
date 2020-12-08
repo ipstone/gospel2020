@@ -3,6 +3,7 @@ header_image: "img/richmond_hillside.jpg"
 # header_image: "img/20201002_sky.jpg"
 header_headline: "Love with Eyes Wide Open"
 header_subheadline: "
+And Jesus, looking at him, loved him, and said to him, “You lack one thing...come, follow me.”       Mark 10:21<BR>
 <small>
 In these times of turbulence and uncertainty, it is good to know that God’s love for each of us is a sure thing and that His love is of the most noble kind.  Much of our understanding of love comes from what Jesus taught and demonstrated when He was here on earth 2,000 years ago. 
 
