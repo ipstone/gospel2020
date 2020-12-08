@@ -1,11 +1,7 @@
 ---
 title: "Contact"
-weight: 4
+weight: 2
 header_menu: true
 ---
+Contact Us - will be like you have it, but more information...
 
-{{<icon class="fa fa-envelope">}}&nbsp;[ipstone17@gmail.com](mailto:your-email@your-domain.com)
-
-{{<icon class="fa fa-phone">}}&nbsp;[+49 1111 555555](tel:+491111555555)
-
-Let us get in touch!
