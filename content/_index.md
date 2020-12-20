@@ -13,7 +13,7 @@ In these times of turbulence and uncertainty, it is good to know that God’s lo
 <br>
 <br>
 <br>
-<p style='color:red'>You are invited to this online event via a Youtube livestream here </p> <a href='https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow/live'>On Saturday, December 19, 2020 at 7:30 pm</a>
-<small><p style='color:#00FFFF'>Join a Zoom discussion immediately after to share your thoughts and questions here </p></small>
+<p style='color:red'> <a href='https://youtu.be/pxefd8lKeY8'> Please watch the event on youtube</a></p>
+<br>
 "
 ---
