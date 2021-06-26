@@ -1,4 +1,4 @@
-baseURL = "http://www.cbmministry.org/events/gospel/2021/2021-04-03/v2/"
+baseURL = "http://www.cbmministry.org/events/gospel/2021/2021-07-10/English/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -17,7 +17,7 @@ title = "Are you fulfilled in life?"
     copyright = "© Christian Believers Meeting"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Gospel meeting at CBM 2021-04-03"
+    description = "Gospel meeting at CBM 2021-07-10"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -31,7 +31,7 @@ title = "Are you fulfilled in life?"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Are you fulfilled in life? 4/3/2021"
+    title = "Are you fulfilled in life? 7/10/2021"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
