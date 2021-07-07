@@ -14,7 +14,7 @@ Please come join us on-line to consider this topic together.  Our meeting will b
 <br>
 <br>
 Join us for a brief moment on July 10th, 2021	7:30 pm – 8:00 pm*
-<p style='color:red'> <a href='http://www.cbmministry.org/gospel'> @ www.cbmministry.org/gospel</a></p>
+<p style='color:red'> <a href='https://us04web.zoom.us/j/8189379851?pwd=WTY4ajJRL05hVmVBSjEySGVNS2c4UT09'> @ Zoom</a></p>
 as we seek the Author of the Bible together for the meaning He ordains for us.
 <br>
 <br>
