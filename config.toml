@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "Are you fulfilled in life?"
+title = "Love and a Good Conscience: How important are these to you?"
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -31,7 +31,7 @@ title = "Are you fulfilled in life?"
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Are you fulfilled in life? 7/10/2021"
+    title = "Love and a Good Conscience: How important are these to you?"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
