@@ -10,7 +10,7 @@ In these turbulent times, especially since early 2020, we find ourselves yearnin
 <p style='color:#1F45FC'>
 Please come join us on-line to consider this topic together.  Our meeting will be held in Zoom starting at 7:30 pm on July 10th, with a song and some sharing, for about 30 minutes.  Then, any who would like to participate in live discussion and Q&A may stay in the same Zoom session.
 
-After July 10th, the meeting will be available via YouTube and the link will appear on this page.  Please revisit this page to view the recording later, or to contact us with questions or comments.
+<p style='color:maroon'> <a href='https://youtu.be/NTHamNbwpo8'>The recorded meeting is available here</a>. Please feel free to contact us with questions or comments in the contact session below.</p>
 
 </p>
 <br>
