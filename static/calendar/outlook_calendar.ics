@@ -1,10 +1,9 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 BEGIN:VEVENT
-DTSTART:20210710T233000Z
-DTEND:20210711T000000Z
-SUMMARY:Love and a Good Conscience: How important are these to you?
-DESCRIPTION:Please come join us on-line to consider this topic together. Join us on Zoom-\nhttps://us04web.zoom.us/j/8189379851?pwd=WTY4ajJRL05hVmVBSjEySGVNS2c4UT09\n\nIn case you have trouble using the link, you can use the following meeting ID and passcode to login:\n> Meeting ID: 818 937 9851   \n> Passcode: 7wySv6\n\nMore details can be found at: http://www.cbmministry.org/events/gospel/2021/2021-07-10/English/
-LOCATION:Zoom
+DTSTART:20220327T000000Z
+DTEND:20220327T004000Z
+SUMMARY:Gospel meeting: topic - Home
+DESCRIPTION:Details can be found at: \nhttp://www.cbmministry.org/gospel/\n\nAs part of a series of short studies, we invite you to consider God’s answer for the various human conditions that beset us all. Please join us as we examine the topic of Home on Saturday, 3/26/2022 at 8PM (lasts about 30 mins).\n\nJoin Zoom Meeting\nhttps://us02web.zoom.us/j/89577338624?pwd=RFNlS2dnTUZ6SEpaM1l1OG9VZ2xwUT09\n\nMeeting ID: 895 7733 8624\nPasscode: 896939\n\n
 END:VEVENT
 END:VCALENDAR

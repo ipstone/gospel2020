@@ -1,4 +1,4 @@
-baseURL = "http://www.cbmministry.org/events/gospel/2021/2021-07-10/English/"
+baseURL = "http://www.cbmministry.org/events/gospel/2022/2022-03-26/hugo/"
 
 # This is a "one page"-website, so we do not need these kinds of pages...
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The "title" of your website
-title = "A Good Conscience: Have we neglected the voice of our conscience?"
+title = "Home: The eternal God is a dwelling place, and underneath are the everlasting arms ..."
 
 [params]
     # A "copyright"-line to be added at the bottom of the page.
@@ -17,7 +17,7 @@ title = "A Good Conscience: Have we neglected the voice of our conscience?"
     copyright = "© Christian Believers Meeting"
 
     # The "description" of your website. This is used in the meta data of your generated html.
-    description = "Gospel meeting at CBM 2021-07-10"
+    description = "Gospel meeting at CBM 2022-03-26"
 
     # The path to your "favicon". This should be a square (at least 32px x 32px) png-file.
     favicon = "images/favicon.png"
@@ -26,12 +26,12 @@ title = "A Good Conscience: Have we neglected the voice of our conscience?"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["img/20201002_sky.jpg"]
+    images = ["img/home_image.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "A Good Conscience: Have we neglected the voice of our conscience?"
+    title = "Home: The eternal God is a dwelling place, and underneath are the everlasting arms ..."
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)

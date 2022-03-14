@@ -1,18 +1,36 @@
 ---
-header_image: "img/20201002_sky.jpg"
+header_image: "img/home_image.jpg"
 #header_image: "img/waterCup.png"
-header_headline: "A Good Conscience: Have we neglected the voice of our conscience?"
+header_headline: "Home"
 header_subheadline: "
-<p style='color:maroon'> The aim of our charge is love that issues from a pure heart and a good conscience and a sincere faith.     1 Timothy 1:5 (ESV) <BR> </p>
-<p style='color:#1F45FC'>
-In these turbulent times, especially since early 2020, we find ourselves yearning for the things that are dependable and sure for ourselves and the people we love.  In our meeting July 10, 2021, we will take a look at how a Good Conscience is a critical building block of civilization and of our lives personally. Whether we realize it or not, our conscience plays a vital role in our relationship with the God who created all of us.
-</p>
-<p style='color:#1F45FC'>
-Please come join us on-line to consider this topic together.  Our meeting will be held in Zoom starting at 7:30 pm on July 10th, with a song and some sharing, for about 30 minutes.  Then, any who would like to participate in live discussion and Q&A may stay in the same Zoom session.
+<p style='color:maroon'> The eternal God is a dwelling place, and underneath are the everlasting arms … Deuteronomy 33:27a <BR> </p>
 
-After July 10th, the meeting will be available via YouTube and the link will appear on this page.  Please revisit this page to view the recording later, or to contact us with questions or comments.
-
+<p style='color:#1F45FC; text-align:left; '>* Home is more than a saying on a souvenir plaque <br>
+* Home is a fundamental human longing for acceptance, openness, and love <br>
+* As spiritual beings God was meant to be part of our Home <br>
+* Home is a deeper dimension of our lives designed by a God of Love <br>
+* Present yearnings for home today reveal some sense of loss in past history when Paradise was lost <br>
+* Selfish pride bore the poison fruit of broken human ties and alienation <br>
+* But our God of Love has not left us with no way Home <br>
+* The Son of God left Home to bring us back to His Father’s House  <br>
+* He is a dwelling place for those who believe <br> 
+* Jesus’ sacrifice secured for us the Home our first ancestors once enjoyed in God’s presence <br>
+* Fully reconciled to God by His death on a cross, anyone who believes in Jesus as the way back Home can enjoy peace, communion with God and that elusive feeling of being at home with family and friends  <br>
 </p>
+
+<p style='color:maroon'>
+As part of a series of short studies, we invite you to consider God’s answer for the various human conditions that beset us all.  Please join us as we examine the topic of Home on <br>
+<p style='color:#f05b36'>March 26th, 2022 (Saturday) at 8PM (lasts about 30 mins) <br>
+You may access the <a href='https://us02web.zoom.us/j/89577338624?pwd=RFNlS2dnTUZ6SEpaM1l1OG9VZ2xwUT09'>Zoom link here</a> </p>
+
+<p style='color:maroon'>
+We hope you will stay on afterward for a live discussion and Q&A.
+</p>
+</p>
+
+<p style='color:darkblue'> 
+Our heart is restless until it rests in You (God) - Augustine of Hippo
 <br>
+
 "
 ---
