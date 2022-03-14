@@ -1,0 +1,19 @@
+
+Many of the 'looks' can be configured using inline html style code, such
+      as those seen in the index page, <p styple= ...>
+
+      There are certain aspects of the style can be configured in the
+      theme/.../static/*.css files, such as changing the font, color for the
+      title etc.
+
+Event calendars can be created by this:
+      https://www.labnol.org/calendar/
+
+Steps to generate a new site:
+      1. Clone the repo
+      2. Update the content, style and looks
+      3. Push to remote site
+
+TODO:
+      - Need to add documentation for the theme (currentl used) on how to
+        clone, update/configure/tweak
