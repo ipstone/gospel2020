@@ -4,7 +4,7 @@ weight: 1
 header_menu: true
 ---
 
-* When: Saturday, March 26, 2021 at 7:30-8:00PM 
+* When: Saturday, March 26, 2021 at 8:00-8:30PM 
 
 * How: 
     <!-- [Join us in this online streaming event](https://www.youtube.com/channel/UC7UZEHXdMH0Y3DwmdzITyow/live) -->

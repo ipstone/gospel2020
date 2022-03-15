@@ -5,7 +5,7 @@ header_headline: "Home"
 header_subheadline: "
 <p style='color:maroon'> The eternal God is a dwelling place, and underneath are the everlasting arms … Deuteronomy 33:27a <BR> </p>
 
-<p style='color:#1F45FC; text-align:left; '>* Home is more than a saying on a souvenir plaque <br>
+<p style='color:black; text-align:left; '>* Home is more than a saying on a souvenir plaque <br>
 * Home is a fundamental human longing for acceptance, openness, and love <br>
 * As spiritual beings God was meant to be part of our Home <br>
 * Home is a deeper dimension of our lives designed by a God of Love <br>
@@ -29,7 +29,7 @@ We hope you will stay on afterward for a live discussion and Q&A.
 </p>
 
 <p style='color:darkblue'> 
-Our heart is restless until it rests in You (God) - Augustine of Hippo
+<em>\"Our heart is restless until it rests in You (God)\" - Augustine of Hippo</em>
 <br>
 
 "
